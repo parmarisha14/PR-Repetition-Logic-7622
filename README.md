@@ -53,8 +53,9 @@ https://pr-repetition-logic-7622.vercel.app/
 6. 📁 File Structure
    
 
-CuteHR/
+CuteHR
 │
+
 ├── index.html              # Employee Table
 
 ├── add_emp.html            # Add Employee Form
@@ -66,19 +67,19 @@ CuteHR/
 
 ├── CSS/
 
-│   ├── bootstrap.min.css   # Bootstrap framework
+├── bootstrap.min.css   # Bootstrap framework
 
-│   └── style.css           # Custom styles
+└── style.css           # Custom styles
 
 ├── JS/
 
-│   ├── script.js           # Employee form logic
+├── script.js           # Employee form logic
 
-│   ├── script2.js          # Employee table + delete
+├── script2.js          # Employee table + delete
 
-│   ├── script3.js          # Product form logic
+├── script3.js          # Product form logic
 
-│   └── script4.js          # Product table display
+└── script4.js          # Product table display
 
 7. 🔍 Functional Description
    
