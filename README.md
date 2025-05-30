@@ -2,7 +2,7 @@
 
 The CuteHR – Employee and Product Management System is a web-based application designed to simplify the internal management of employee records and product details. The system provides functionalities to add, display, and manage both employee and product data using HTML, CSS, JavaScript, and browser localStorage.
 
-3. 🎯 Objectives
+2. 🎯 Objectives
 To manage employee records in a centralized system.
 
 To store and display product details including image previews.
