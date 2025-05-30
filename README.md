@@ -63,13 +63,15 @@ CuteHR/
 
 ├── product.html            # Product Table View
 
-│
+
 ├── CSS/
+
 │   ├── bootstrap.min.css   # Bootstrap framework
 
 │   └── style.css           # Custom styles
-│
+
 ├── JS/
+
 │   ├── script.js           # Employee form logic
 
 │   ├── script2.js          # Employee table + delete
@@ -81,22 +83,22 @@ CuteHR/
 7. 🔍 Functional Description
    
   A. Employee Module
-    add_emp.html: Form for entering employee data
+  add_emp.html: Form for entering employee data
 
-    script.js: Saves form data into localStorage
+  script.js: Saves form data into localStorage
 
-    index.html + script2.js:
+  index.html + script2.js:
 
   Displays employee data in a table
 
   Allows deletion of specific records
 
   B. Product Module
-    add_product.html: Form to input product details
+  add_product.html: Form to input product details
 
-    script3.js: Handles product form submission
+  script3.js: Handles product form submission
 
-    product.html + script4.js: Displays product list with images
+  product.html + script4.js: Displays product list with images
 
 8. 🖼 Output Screenshots
    
