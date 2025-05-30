@@ -21,7 +21,7 @@ form.addEventListener('submit', (e) => {
     employees.push(emp);
     console.log(employees);
     
-    localStorage.setItem('emp', JSON.stringify(employees));
+    localStorage.setItem('employees', JSON.stringify(employees));
     alert("Employee added successfully!");
     form.reset();
 });
