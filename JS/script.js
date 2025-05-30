@@ -9,6 +9,7 @@ let employees = JSON.parse(localStorage.getItem('employees')) || [];
 form.addEventListener('submit', (e) => {
     e.preventDefault();
 
+
     let emp = {
         id: Date.now(),
         ename: ename.value.trim(),
